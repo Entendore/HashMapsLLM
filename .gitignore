@@ -1,0 +1,37 @@
+# Media, Archives, and AI Models
+*.7z
+*.aac
+*.avi
+*.blend
+*.flac
+*.flv
+*.gz
+*.iso
+*.jpeg
+*.jpg
+*.m4a
+*.mkv
+*.mov
+*.mp3
+*.mp4
+*.ogg
+*.png
+*.rar
+*.tar
+*.wav
+*.webm
+*.wmv
+*.zip
+# Python / Dev
+*.py[cod]
+.env
+.env.local
+*.log
+Thumbs.db
+.DS_Store
+*.tmp
+*.bak
+
+# Added by Git Repo Creator
+# GitHub Actions
+.github/
